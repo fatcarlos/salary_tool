@@ -1,0 +1,27 @@
+{
+  "layout": {
+    "mode": "stacked",
+    "percentage": 50.0,
+    "swapped": false
+  },
+  "admin_password": "admin",
+  "two_factor_enabled": false,
+  "two_factor_secret": "",
+  "trusted_devices": [],
+  "username": "salary",
+  "password": "salary",
+  "language": "zh-Hant",
+  "flask_secret_key": "",
+  "3d_mode": true,
+  "sound_volume": 100,
+  "workshop": {
+    "portal_title": "散工出糧神器",
+    "login_title": "散工出糧神器",
+    "job1_py": "cargo.py",
+    "job1_json": "salary_cargo.json",
+    "job2_py": "cmhk.py",
+    "job2_json": "salary_cmhk.json",
+    "job1_url": "",
+    "job2_url": ""
+  }
+}
